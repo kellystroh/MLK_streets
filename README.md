@@ -1,5 +1,5 @@
 # Streets named for Martin Luther King Jr.
-I am celebrating MLK day this year with a data-twist. I put together a quick data project to identify & map American streets named after MLK. Check out the accompanying blog post for more details. 
+I am celebrating MLK day this year with a data-twist. I put together a quick data project to identify & map American streets named after MLK. Check out the [accompanying blog post](datacircles.org/blog-1/data-days-mlk) for more details. 
 
 ### Project Guide
 The MLK notebook walks through each step of the project. You should be able to run the notebook from a clone of this repo, without needing to download data or run the python files. However, if you want to replicate the process, see below for more info. 
